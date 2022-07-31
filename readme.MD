@@ -19,6 +19,9 @@ minikube start --driver="docker"
 minikube dashboard
 ```
 
+# Recommended vscode extensions:
+- [Kubernetes](https://marketplace.visualstudio.com/items?itemName=ms-kubernetes-tools.vscode-kubernetes-tools)
+
 # Useful links:
 - [Kubernetes interactive tutorial](https://kubernetes.io/docs/tutorials/kubernetes-basics/create-cluster/cluster-interactive/)
 - [AWS EKS workshop](https://www.eksworkshop.com/)
